@@ -1,4 +1,4 @@
-# DIO - Trilha .NET - Fundamentos
+# DIO - Trilha .NET - Fundamentos (com Solução)
 www.dio.me
 
 ## Desafio de projeto
@@ -35,4 +35,4 @@ Por último, deverá ser feito um menu interativo com as seguintes ações imple
 
 
 ## Solução
-O código está pela metade, e você deverá dar continuidade obedecendo as regras descritas acima, para que no final, tenhamos um programa funcional. Procure pela palavra comentada "TODO" no código, em seguida, implemente conforme as regras acima.
+A solução do desafio foi implementada obedecendo às regras descritas acima na branch "solucao" que deverá ser mergeada à branch "main". Todos os comentários "TODO" foram convertidos em "DONE".
